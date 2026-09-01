@@ -13,7 +13,12 @@ I enjoy learning by building projects, solving problems, and exploring new techn
 
 > Curious mind.
 
-## 🛠️ Tech Stack
+
+##  Connect With Me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/yasmine-amgad-a41838378/)
+
+##  Tech Stack
 
 **Languages**
 
