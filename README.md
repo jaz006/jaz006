@@ -43,5 +43,9 @@ I enjoy learning by building projects, solving problems, and exploring new techn
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mhmdwaelmhdi/mhmdwaelmhdi/output/github-snake-dark.svg" />
+</p>
+
 
 
