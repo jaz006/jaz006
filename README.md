@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20I'm%20Yasmine!&fontSize=40) 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Hola%20It's%20Yasmine%20😊!&fontSize=60)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=600&center=true&vCenter=true&width=600&lines=Computer+Science+Student+and+a+Flutter+Developer;Always+Learning+%26+Building)](https://git.io/typing-svg)
 
