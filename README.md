@@ -42,9 +42,10 @@ I enjoy learning by building projects, solving problems, and exploring new techn
 
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![VisualStudioCode](https://skillicons.dev/icons?i=vscode)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mhmdwaelmhdi/mhmdwaelmhdi/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/jaz006/jaz006/output/github-snake-dark.svg" />
 </p>
 
 
